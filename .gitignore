@@ -1,0 +1,9 @@
+env/
+__pycache__/
+data/SyceronBrut.xml
+analysis/__pycache__/
+analysis/csv.pyc
+
+*.csv
+.notes de développement.txt
+other/

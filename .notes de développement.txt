@@ -1,0 +1,5 @@
+- Gérer les erreurs (revoir la vidéo try/except openclassrooms) en ajoutant le type d'exception levée
+- Partager sur GitHub (version monotone uniquement ?)
+- Checker les scripts avec Pylint ->fait
+
+- Faire un site web por le potentiel free-cooling pour les data centers.
